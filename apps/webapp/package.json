@@ -56,6 +56,7 @@
     "@radix-ui/react-tabs": "^1.0.3",
     "@radix-ui/react-tooltip": "^1.0.5",
     "@react-email/head": "^0.0.2",
+    "@react-email/html": "^0.0.2",
     "@remix-run/express": "2.1.0",
     "@remix-run/node": "2.1.0",
     "@remix-run/react": "2.1.0",
